@@ -1,2 +1,2 @@
 # RxSwiftHelper
-Some little functions helping with RxSwift
+Some little functions helping with RxSwift.
